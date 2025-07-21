@@ -7,37 +7,37 @@ This repository is a curated collection of my key data‑science and machine‑l
 
 ## 📂 Project Folders
 
-- **[FakeNews](FakeNews/)**  
+- **[FakeNews]**  
   Classification of news articles as real vs. fake using NLP and scikit‑learn.
   
-- **[DataVisualization](DataVisualization/)**  
+- **[DataVisualization]**  
   A showcase of diverse plotting techniques—bar charts, scatter plots, heatmaps, and more.
   
-- **[ExploratoryDataAnalysis](ExploratoryDataAnalysis/)**  
+- **[ExploratoryDataAnalysis]**  
   End‑to‑end data cleaning, summary statistics, and insight generation.
   
-- **[HuggingFace](HuggingFace/)**  
+- **[HuggingFace]**  
   Loading and querying transformer models in PyTorch & TensorFlow with prompt engineering.
    
-- **[ModelDevelopment](ModelDevelopment/)**  
+- **[ModelDevelopment]**  
   Building regression models using core statistical functions and hypothesis testing.
   
-- **[ModelEvaluation](ModelEvaluation/)**  
+- **[ModelEvaluation]**  
   Assessing and refining models with cross‑validation, hyperparameter tuning, and ensembling.
   
-- **[NLP](NLP/)**  
+- **[NLP]**  
   A full NLP pipeline: text cleaning, vectorization, classification, and evaluation.
   
-- **[QuantMethods](QuantMethods/)**
+- **[Big data and machiine learning]**
   Scalable quantitative methods for big data, including PCA and performance benchmarking.
   
-- **[SentimentAnalysis](SentimentAnalysis/)**  
+- **[SentimentAnalysis]**  
   Sentiment classification on restaurant reviews using TF‑IDF and classical ML classifiers.
   
-- **[XLNetClassification](XLNetClassification/)**  
+- **[XLNetClassification]**  
   Fine‑tuning and inference with the XLNet transformer for text classification.
   
-- **[Prompting](Prompting/)**  
+- **[Prompting]**  
   Techniques for prompting large language models via Hugging Face’s Transformers.
 
 ---
