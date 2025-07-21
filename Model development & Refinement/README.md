@@ -28,18 +28,38 @@ Leverage statistical methods to build and validate predictive models.
 
 ---
 
-**How to Run**
+### README for **Model Evaluation & Refinement.ipynb**
+# Model Evaluation and Refinement
 
-```bash
-jupyter notebook "Model Development using statistical functions.ipynb"
+Assess model performance and apply techniques to boost accuracy and robustness.
 
+---
+
+## 🔍 Notebook Overview
+
+- **Train/Test Split**: Proper data partitioning strategies.  
+- **Cross‑Validation**: K‑fold and stratified sampling for reliable scoring.  
+- **Metric Selection**: Accuracy, precision, recall, F1‑score, ROC AUC.  
+- **Hyperparameter Tuning**: Grid search and randomized search examples.  
+- **Ensembling**: Bagging, boosting, and stacking methods.
+
+---
+
+## 🛠️ Tech Stack & Dependencies
+
+- Python 3.x  
+- scikit‑learn  
+- pandas, numpy  
+- matplotlib, seaborn  
+
+---
 
 
 ---
 
 ### README for **Model Evaluation & Refinement.ipynb**
 
-```markdown
+
 # Model Evaluation and Refinement
 
 Assess model performance and apply techniques to boost accuracy and robustness.
@@ -69,3 +89,8 @@ Assess model performance and apply techniques to boost accuracy and robustness.
 
 ```bash
 jupyter notebook "Model Evaluation & Refinement.ipynb"
+jupyter notebook "Model Development using statistical functions.ipynb"
+
+
+
+
