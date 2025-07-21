@@ -27,7 +27,41 @@ Perform an end‑to‑end EDA to understand data quality, correlations, and key 
 
 ---
 
+
+---
+
+### README for **Sentiment analysis on restaurant reviews.ipynb**
+
+# Sentiment Analysis on Restaurant Reviews
+
+Build a text‑classification pipeline to predict sentiment from customer reviews.
+
+---
+
+## 🔍 Notebook Overview
+
+- **Data Collection**: Load review text and star ratings.  
+- **Preprocessing**: Tokenization, stop‑word filtering, and cleaning.  
+- **Feature Engineering**: TF‑IDF vectors and sentiment lexicons.  
+- **Model Training**: Naive Bayes, SVM, and ensemble classifiers.  
+- **Evaluation**: Accuracy, precision/recall, and confusion matrices.
+
+---
+
+## 🛠️ Tech Stack & Dependencies
+
+- Python 3.x  
+- pandas, numpy  
+- scikit‑learn  
+- nltk  
+- matplotlib, seaborn  
+
+---
+
 **How to Run**
 
 ```bash
+jupyter notebook "Sentiment analysis on restaurant reviews.ipynb"
 jupyter notebook Explotary_Data_Analysis.ipynb
+
+
