@@ -1,7 +1,7 @@
 # My Jupyter Projects
 
 Welcome to **My Jupyter Projects**!  
-This repository is a curated collection of my key data‑science and machine‑learning workflows, each encapsulated in its own Jupyter Notebook and folder.
+This repository is a curated collection of my key data‑science, machine‑learning and AI workflows, each encapsulated in its own Jupyter Notebook and folder.
 
 ---
 
